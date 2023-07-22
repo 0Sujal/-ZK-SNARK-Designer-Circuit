@@ -1,7 +1,5 @@
-###-ZK-SNARK-Designer-Circuit
+##-ZK-SNARK-Designer-Circuit
 
-
-# -ZK-Circuit-Implementation
 A hardhat-circom  to generate for this circuit!
 
 ![image](https://github.com/0Sujal/-ZK-SNARK-Designer-Circuit/assets/90201074/37d8bf38-c8c0-457b-9180-86ed493dbda6)
@@ -71,12 +69,12 @@ component main = NewDesign();
 npm i
 
 ## Compile
-npx hardhat circom   This will generate the out file with circuit intermediaries and geneate the MultiplierVerifier.sol contract
+npx hardhat circom   This will generate the out file with circuit intermediaries and geneate the NewDesign.sol contract
 
 ## Prove and Deploy
 npx hardhat run scripts/deploy.ts This script does 4 things
 
-Deploys the MultiplierVerifier.sol contract
+Deploys the NewDesign.sol contract
 Generates a proof from circuit intermediaries with generateProof()
 Generates calldata with generateCallData()
 Calls verifyProof() on the verifier contract with calldata
@@ -101,11 +99,6 @@ Calls verifyProof() on the verifier contract with calldata
 
  ![image](https://github.com/0Sujal/-ZK-SNARK-Designer-Circuit/assets/90201074/254ca899-fe7e-4046-8daa-924d7d028115)
  
-# Authors
-Vinay Kumar 21BCS7595@cuchd.in
-
-# License
-This project is licensed under the Vinay Kumar License - see the LICENSE.md file for details
-#Authors Sujal Dua 21BCS5327@cuchd.in
+#Authors- Sujal Dua 21BCS5327@cuchd.in
 
 #License This project is licensed under the Sujal Dua License - see the LICENSE.md file for details
