@@ -1,0 +1,13 @@
+[
+  {
+    "name": "NewDesign",
+    "protocol": "groth16",
+    "circuit": "NewDesign/circuit.circom",
+    "input": "NewDesign/input.json",
+    "wasm": "NewDesign/out/circuit.wasm",
+    "zkey": "NewDesign/out/NewDesign.zkey",
+    "vkey": "NewDesign/out/NewDesign.vkey",
+    "r1cs": "NewDesign/out/NewDesign.r1cs",
+    "beacon": "0102030405060708090a0b0c0d0e0f101112131415161718191a1b1c1d1e1f"
+  }
+]
