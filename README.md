@@ -97,7 +97,7 @@ Calls verifyProof() on the verifier contract with calldata
  
  and you can check your transaction on https://mumbai.polygonscan.com/ 
 
- ![image](https://github.com/0Sujal/-ZK-SNARK-Designer-Circuit/assets/90201074/254ca899-fe7e-4046-8daa-924d7d028115)
+ ![image](https://github.com/0Sujal/-ZK-SNARK-Designer-Circuit/assets/90201074/bd5b0ce4-ee6c-443e-b5c1-ebfeb6de8c48)
 
   ![image](https://github.com/0Sujal/-ZK-SNARK-Designer-Circuit/assets/90201074/bc228319-a45d-48d8-a06c-7b9c73d24829)
 
