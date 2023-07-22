@@ -92,6 +92,8 @@ Calls verifyProof() on the verifier contract with calldata
 
  ![image](https://github.com/0Sujal/-ZK-SNARK-Designer-Circuit/assets/90201074/63a18f84-063d-4b05-8a6f-3a5684033ba7)
  
+ ![image](https://github.com/0Sujal/-ZK-SNARK-Designer-Circuit/assets/90201074/bc228319-a45d-48d8-a06c-7b9c73d24829)
+ 
  to depoly run this command 
  npx hardhat run scripts/deploy.ts --network mumbai
  
