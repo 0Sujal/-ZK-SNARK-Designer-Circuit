@@ -1,9 +1,11 @@
 ###-ZK-SNARK-Designer-Circuit
-![image](https://github.com/0Sujal/-ZK-SNARK-Designer-Circuit/assets/90201074/254ca899-fe7e-4046-8daa-924d7d028115)
+
 
 # -ZK-Circuit-Implementation
 A hardhat-circom  to generate for this circuit!
-[image](https://github.com/VinayKumar2004/-ZK-Circuit-Implementation/assets/94241385/7ad735a9-e0f2-4ada-a8d7-78eff84f5722)
+
+![image](https://github.com/0Sujal/-ZK-SNARK-Designer-Circuit/assets/90201074/37d8bf38-c8c0-457b-9180-86ed493dbda6)
+
 ## Quick Start
 Compile the Multiplier2() circuit and verify it against a smart contract verifier
 
@@ -89,13 +91,15 @@ Calls verifyProof() on the verifier contract with calldata
     accounts: [process.env.MUMBAIPRIVATEKEY]}},
     and create env file 
  Now  add mumbai test network to metamask account private key!  
- [image](https://github.com/VinayKumar2004/-ZK-Circuit-Implementation/assets/94241385/dafbd449-f612-49a5-885f-a2dba6a5281b)
 
+ ![image](https://github.com/0Sujal/-ZK-SNARK-Designer-Circuit/assets/90201074/63a18f84-063d-4b05-8a6f-3a5684033ba7)
  
  to depoly run this command 
  npx hardhat run scripts/deploy.ts --network mumbai
  
  and you can check your transaction on https://mumbai.polygonscan.com/ 
+
+ ![image](https://github.com/0Sujal/-ZK-SNARK-Designer-Circuit/assets/90201074/254ca899-fe7e-4046-8daa-924d7d028115)
  
 # Authors
 Vinay Kumar 21BCS7595@cuchd.in
