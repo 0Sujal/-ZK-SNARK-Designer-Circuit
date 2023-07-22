@@ -91,15 +91,16 @@ Calls verifyProof() on the verifier contract with calldata
  Now  add mumbai test network to metamask account private key!  
 
  ![image](https://github.com/0Sujal/-ZK-SNARK-Designer-Circuit/assets/90201074/63a18f84-063d-4b05-8a6f-3a5684033ba7)
- 
- ![image](https://github.com/0Sujal/-ZK-SNARK-Designer-Circuit/assets/90201074/bc228319-a45d-48d8-a06c-7b9c73d24829)
- 
+  
  to depoly run this command 
  npx hardhat run scripts/deploy.ts --network mumbai
  
  and you can check your transaction on https://mumbai.polygonscan.com/ 
 
  ![image](https://github.com/0Sujal/-ZK-SNARK-Designer-Circuit/assets/90201074/254ca899-fe7e-4046-8daa-924d7d028115)
+
+  ![image](https://github.com/0Sujal/-ZK-SNARK-Designer-Circuit/assets/90201074/bc228319-a45d-48d8-a06c-7b9c73d24829)
+
  
 #Authors- Sujal Dua 21BCS5327@cuchd.in
 
